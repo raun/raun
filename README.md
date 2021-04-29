@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning cooperative multitasking
 - 😄 Pronouns: He/His
+- 🕸️ You can read me here: [Blog](https://raun.github.io/)
 - 🌱 Languages and Tools :hammer:
  
  &nbsp;
