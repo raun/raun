@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Raun 👋
 
-<!--
-**raun/raun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Director of Engineering** — building reliable systems and leading teams that ship.
 
-Here are some ideas to get you started:
+Currently exploring how to build and scale with AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+
+---
+
+### Currently
+
+- Leading engineering teams and driving technical strategy
+- Learning to build and scale AI-powered systems
+- Experimenting with LLMs, agents, and production AI infrastructure
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raun&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raun&layout=compact&theme=dark&hide_border=true)
+
+---
+
+*Open to conversations about engineering leadership, Python/Django, and AI at scale.*
