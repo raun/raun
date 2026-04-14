@@ -21,13 +21,6 @@ Currently exploring how to build and scale with AI.
 
 ---
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raun&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raun&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### Monthly Contributions (Last 12 Months)
 
 > Commits and lines changed, month by month.
