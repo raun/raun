@@ -1,4 +1,4 @@
-# Hi, I'm Raun 👋
+# Hi, I'm Anshul Sharma 👋
 
 **Director of Engineering** — building reliable systems and leading teams that ship.
 
@@ -23,8 +23,25 @@ Currently exploring how to build and scale with AI.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raun&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raun&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raun&layout=compact&theme=dark&hide_border=true)
+
+---
+
+### Monthly Contributions (Last 12 Months)
+
+> Commits and lines changed, month by month.
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raun&theme=github_dark)
+
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raun&theme=github_dark" /></td>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raun&theme=github_dark&utcOffset=5.5" /></td>
+  </tr>
+</table>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raun&theme=github-dark&hide_border=true&area=true&custom_title=Contribution+Activity+%E2%80%94+Last+12+Months)
 
 ---
 
